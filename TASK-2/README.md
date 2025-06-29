@@ -1,1 +1,1 @@
-[Understanding the data](#understanding-the-data)
+[Understanding the data](EDA.ipynb)
